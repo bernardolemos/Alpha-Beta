@@ -5,7 +5,7 @@ This is an implementation of the AlphaBet and MinMax algorithms applied to **_Ti
 
 The implmentation is interactive, thus you may play against the computer.
 
-You may choose the algorithm that the computer players uses:
+You may choose the algorithm that the computer player uses:
 
 * MinMax
 * AlphaBeta
