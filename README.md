@@ -1,7 +1,7 @@
 # Alpha-Beta and Min-Max prunning algorithms in JAVA
 
 ## Tik Tak Toe
-This is an implementation of the AlphaBet and MinMax algorithms applied to **_Tik Tak Toe_**
+This is an implementation of the Alpha-Beta and Min-Max prunning algorithms applied to **_Tik Tak Toe_**
 
 The implmentation is interactive, thus you may play against the computer.
 
